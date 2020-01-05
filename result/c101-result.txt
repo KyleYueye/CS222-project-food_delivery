@@ -1,0 +1,60 @@
+**************************************************
+[macs]: vehicle num of found path (17) better than best path's (21), found path distance is 2367.353147
+it takes 16.637 second multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: vehicle num of found path (16) better than best path's (17), found path distance is 2465.584358
+it takes 29.861 second multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (2299.245422) better than best path's (2465.584358)
+it takes 46.551 second from multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: vehicle num of found path (14) better than best path's (16), found path distance is 2299.245422
+it takes 46.562 second multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (2035.696458) better than best path's (2299.245422)
+it takes 58.125 second from multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: vehicle num of found path (13) better than best path's (14), found path distance is 2035.696458
+it takes 58.130 second multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (1394.128501) better than best path's (2035.696458)
+it takes 117.958 second from multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (1363.307056) better than best path's (1394.128501)
+it takes 118.612 second from multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: vehicle num of found path (12) better than best path's (13), found path distance is 1363.307056
+it takes 118.613 second multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (1307.601292) better than best path's (1363.307056)
+it takes 141.484 second from multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: vehicle num of found path (11) better than best path's (12), found path distance is 1307.601292
+it takes 141.485 second multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (927.826242) better than best path's (1307.601292)
+it takes 162.230 second from multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: vehicle num of found path (10) better than best path's (11), found path distance is 927.826242
+it takes 162.239 second multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (905.991968) better than best path's (927.826242)
+it takes 199.479 second from multiple_ant_colony_system running
+**************************************************
+**************************************************
+[macs]: distance of found path (828.936867) better than best path's (905.991968)
+it takes 266.450 second from multiple_ant_colony_system running
+**************************************************
